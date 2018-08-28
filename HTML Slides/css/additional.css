@@ -8,3 +8,6 @@
     margin-left: auto;
     margin-right: auto;
 }
+.font-200, ul.font-200 li {
+    font-size: 2rem
+}
